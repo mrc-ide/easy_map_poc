@@ -5,7 +5,7 @@ library(leaflet)
 
 # USER INTERFACE ---------------------------------------------------------------
 ui <- fluidPage(
-  titlePanel("Data Frame Editor"),
+  titlePanel("Easy map!"),
   sidebarLayout(
     sidebarPanel(
       selectInput(
