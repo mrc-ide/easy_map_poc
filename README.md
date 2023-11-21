@@ -3,7 +3,7 @@
 
 Proof of concept, hyper-simple, single variable mapping tool.
 
-`shiny::runGitHub("mrc-ide/east_map_poc")`
+`shiny::runGitHub("mrc-ide/easy_map_poc")`
 
 1. Upload a sf spatial file, or choose a pre-loaded dataset
 2. Choose the spatial variable from the dropdown.
